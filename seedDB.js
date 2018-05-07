@@ -38,7 +38,7 @@ let data = [
   {
     _id: "5af0264a129d203e18a3fac5",
     name: "Marvel Comics",
-    image: "../../assets/images/hp.jpg",
+    image: "../../assets/images/marvel.jpg",
     price: 1800,
     addedToCart: false,
     __v: 0
@@ -46,7 +46,7 @@ let data = [
   {
     _id: "5af0264a129d203e18a3fac6",
     name: "DC Comics",
-    image: "../../assets/images/hp.jpg",
+    image: "../../assets/images/dc.jpg",
     price: 1200,
     addedToCart: false,
     __v: 0
